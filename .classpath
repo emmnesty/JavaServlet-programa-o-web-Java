@@ -14,9 +14,6 @@
 	</classpathentry>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry exported="true" kind="lib" path="WebContent/WEB-INF/lib/jstl-1.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="/Servers/.settings"/>
-	<classpathentry exported="true" kind="lib" path="/Servers/Tomcat v9.0 Server at localhost-config"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Magna/eclipse-workspace/apache-tomcat-9.0.64/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

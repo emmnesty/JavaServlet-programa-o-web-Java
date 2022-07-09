@@ -21,10 +21,10 @@ public class Banco {
 		lista.add(empresa2);
 		
 		Usuario u1 = new Usuario();
-		u1.setLogin("nico");
+		u1.setLogin("Jhonatan");
 		u1.setSenha("12345");
 		Usuario u2 = new Usuario();
-		u2.setLogin("ana");
+		u2.setLogin("Ana");
 		u2.setSenha("12345");
 		
 		listaUsuarios.add(u1);
