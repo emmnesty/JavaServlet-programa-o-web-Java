@@ -1,9 +1,0 @@
-<html>
-
-<body>
-Bem vindo
-
-</body>
-
-
-</html>
